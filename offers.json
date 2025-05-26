@@ -1,0 +1,84 @@
+{
+  "fashion": {
+    "mens_clothing": [
+      {
+        "title": "HIGHLANDER Regular Fit Shirt",
+        "price": 299.0,
+        "discount": "Rs.1500 OFF",
+        "merchant": "Myntra",
+        "url": "https://www.myntra.com/shirts/highlander/highlander-dusty-regular-fit-shirt/28594154/buy"
+      },
+      {
+        "title": "Kook N Keech Polo T-shirt",
+        "price": 299.0,
+        "discount": "85% OFF",
+        "merchant": "Myntra",
+        "url": "https://www.myntra.com/tshirts/kook-n-keech-men-polo-collar-t-shirt/32756176/buy"
+      }
+    ],
+    "womens_clothing": [
+      {
+        "title": "WEROLIA Muslin Printed Kurti",
+        "price": 495.0,
+        "discount": "67% OFF",
+        "merchant": "AJIO",
+        "url": "https://www.ajio.com/werolia-women-muslin-printed-kurti/p/701044530_black"
+      },
+      {
+        "title": "DressBerry A-Line Midi Dress",
+        "price": 483.0,
+        "discount": "78% OFF",
+        "merchant": "Myntra",
+        "url": "https://www.myntra.com/dresses/dressberry/floral-print-puff-sleeve-dress/28983954/buy"
+      }
+    ]
+  },
+  "beauty": [
+    {
+      "title": "LOreal Paris Infallible Concealer",
+      "price": 552.0,
+      "discount": "35% OFF",
+      "merchant": "Nykaa",
+      "url": "https://www.nykaa.com/l-oreal-paris-infallible-concealer/p/648645"
+    },
+    {
+      "title": "Lakme Sun Expert SPF 50",
+      "price": 349.0,
+      "discount": "30% OFF",
+      "merchant": "Nykaa",
+      "url": "https://www.nykaa.com/lakme-sun-expert-spf-50/p/18714194"
+    }
+  ],
+  "electronics": [
+    {
+      "title": "Amazon Basics TWS Earbuds",
+      "price": 469.0,
+      "discount": "81% OFF",
+      "merchant": "Amazon",
+      "url": "https://amzn.to/4kprWdf"
+    },
+    {
+      "title": "Crompton Tower Air Cooler 34L",
+      "price": 6649.0,
+      "discount": "36% OFF",
+      "merchant": "Croma",
+      "url": "https://www.croma.com/crompton-surebreeze-34l-tower-cooler/p/305344"
+    }
+  ],
+  "home": [
+    {
+      "title": "MY ARMOR Microfiber Pillows",
+      "price": 564.0,
+      "discount": "43% OFF",
+      "merchant": "Flipkart",
+      "url": "https://www.flipkart.com/my-armor-microfiber-pillows/p/itm46561d24c63b8"
+    },
+    {
+      "title": "TEQO Rechargeable Table Fan",
+      "price": 599.0,
+      "discount": "70% OFF",
+      "merchant": "Amazon",
+      "url": "https://amzn.to/4k5kZhV"
+    }
+  ]
+}
