@@ -12,14 +12,14 @@ Promo Sensei monitors promotional deals from major e-commerce platforms, process
 ## Project Structure
 
 ```
-promo_sensei/
-├── scraper.py               # Deal scraping module
-├── ingest_to_vector_db.py   # Vector database management
-├── rag_query.py            # Query processing pipeline
-├── slackbot.py             # Slack integration interface
-├── offers.json             # Cached deal data
-├── faiss_index/            # Vector database storage
-└── .env                    # Configuration files
+  promo_sensei/
+  ├── scraper.py               # Deal scraping module
+  ├── ingest_to_vector_db.py   # Vector database management
+  ├── rag_query.py            # Query processing pipeline
+  ├── slackbot.py             # Slack integration interface
+  ├── offers.json             # Cached deal data
+  ├── faiss_index/            # Vector database storage
+  └── .env                    # Configuration files
 ```
 
 ## Setup Instructions
@@ -129,15 +129,3 @@ pip install -r requirements.txt
 
 MIT License - See LICENSE file for details
 ```
-
-Key improvements:
-- Removed emojis for professional look
-- Better structured setup instructions
-- Clearer command documentation
-- Added installation section
-- Included contribution guidelines
-- Added license information
-- More detailed technical implementation
-- Better formatted code blocks
-- Clearer dependency listing
-- Added usage instructions
